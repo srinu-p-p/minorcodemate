@@ -1,0 +1,6 @@
+{
+  "name": "CodeSync - Intelligent Workspace",
+  "description": "An intelligent software development workspace for collaborative software engineering featuring real-time Yjs Monaco editing, AI code review and explanation, Kanban task management, and snapshot history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
